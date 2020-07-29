@@ -35,4 +35,4 @@ BSD
 Author Information
 ------------------
 
-This role was created in 2020 by DevOps Prashant Mahabare, author of Ansible for DevOps.
+This role was created in 2020 by DevOps engineer Prashant Mahabare, author of Ansible for DevOps.
