@@ -1,7 +1,7 @@
 Role Name
 =========
 
-envista.elasticrepo - Install the elastic search repo on Centos 7 & 8
+elasticrepo - Install the elastic search repo on Centos 7 & 8
 
 Requirements
 ------------
@@ -25,7 +25,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: all
       roles:
-         - envista.elasticrepo
+         - elasticrepo
 
 License
 -------
@@ -35,4 +35,4 @@ BSD
 Author Information
 ------------------
 
-This role was created in 2020 by DevOps engineer Prashant Mahabare.
+This role was created in 2020 by Prashant Mahabare.
